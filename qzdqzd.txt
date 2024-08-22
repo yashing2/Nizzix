@@ -9,3 +9,4 @@ invert on shot
 180 pich in shot
 seq manip
 rgb chams
+deezer player
