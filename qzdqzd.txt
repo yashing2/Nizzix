@@ -7,3 +7,4 @@ add delay triggerbot
 remove sky
 invert on shot
 180 pich in shot
+seq manip
