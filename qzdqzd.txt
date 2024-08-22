@@ -3,3 +3,4 @@ RGB fov aimbot
 choose texture for chams
 invisible weapon
 zoom white an key
+add delay triggerbot
