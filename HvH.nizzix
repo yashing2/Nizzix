@@ -1,0 +1,305 @@
+{
+    "settings": {
+        "aimbot": {
+            "accuracy": {
+                "backtrack": 0.3919999897480011,
+                "disable_recoil": true,
+                "disable_visual_recoil": true,
+                "predict_spread": true,
+                "smooth": 0.0
+            },
+            "globals": {
+                "automatic_fire": true,
+                "enable": true,
+                "fov": 16.5,
+                "hitbox": 0,
+                "hotkey": {
+                    "key": 6,
+                    "type": 1
+                },
+                "penetrate_walls": true,
+                "priority": 0,
+                "silent": true
+            },
+            "visuals": {
+                "backtrack": {
+                    "enable": true,
+                    "material_type": 0
+                },
+                "colors": {
+                    "backtrack": [
+                        0.9411764144897461,
+                        0.0,
+                        1.0,
+                        1.0
+                    ],
+                    "fov": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ],
+                    "snaplines": [
+                        0.7058820724487305,
+                        0.0,
+                        1.0,
+                        1.0
+                    ]
+                },
+                "fov": true,
+                "snaplines": true
+            }
+        },
+        "antihit": {
+            "fake_angles": {
+                "at_target": true,
+                "degres": 224.0,
+                "enable": true,
+                "fake_duck": true,
+                "hotkey": {
+                    "key": 5,
+                    "type": 2
+                },
+                "invert_yaw": true,
+                "jigger_bot": true,
+                "pitch": 0,
+                "speedy": 48.0,
+                "spinbot": false,
+                "yaw": 0
+            },
+            "fake_lags": {
+                "count": 13,
+                "enable": true,
+                "method": 4
+            },
+            "visuals": {
+                "colors": {
+                    "fake_model": [
+                        0.9411764144897461,
+                        0.0,
+                        1.0,
+                        1.0
+                    ]
+                },
+                "fake_model": {
+                    "enable": true,
+                    "material_type": 1
+                }
+            }
+        },
+        "lua": {
+            "miscellaneous": {
+                "dumper": false,
+                "net_logger": false
+            }
+        },
+        "menu": {
+            "colors": {
+                "child_bg": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    1.0
+                ],
+                "frame_active_bg": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "frame_bg": [
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    0.10000000149011612,
+                    1.0
+                ],
+                "frame_hovered_bg": [
+                    1.0,
+                    0.800000011920929,
+                    0.0,
+                    1.0
+                ],
+                "text": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    1.0
+                ],
+                "text_active": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "text_hovered": [
+                    1.0,
+                    0.800000011920929,
+                    0.0,
+                    1.0
+                ],
+                "window_bg": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ]
+            },
+            "custom_loading_screen": {
+                "enable": true,
+                "url": "https://yashing2.github.io/Nizzix/index.html"
+            }
+        },
+        "miscellaneous": {
+            "globals": {
+                "RGB": {
+                    "enable": true,
+                    "speedFactor": 200
+                },
+                "third_person": {
+                    "distance": 100,
+                    "enable": true,
+                    "hotkey": {
+                        "key": 4,
+                        "type": 2
+                    }
+                }
+            },
+            "movement": {
+                "air_strafe": true,
+                "bhop": true
+            }
+        },
+        "visuals": {
+            "chams": {
+                "colors": {
+                    "entity": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "hands": [
+                        1.0,
+                        1.0,
+                        1.0,
+                        1.0
+                    ],
+                    "players": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "entity": {
+                    "draw_original_model": false,
+                    "enable": false,
+                    "ignore_walls": false,
+                    "list": null,
+                    "material_type": 0
+                },
+                "hands": {
+                    "draw_original_model": false,
+                    "enable": false,
+                    "material_type": 0
+                },
+                "players": {
+                    "draw_original_model": true,
+                    "enable": true,
+                    "ignore_walls": true,
+                    "material_type": 0
+                }
+            },
+            "esp": {
+                "entity": {
+                    "box": false,
+                    "colors": {
+                        "box": [
+                            1.0,
+                            1.0,
+                            1.0,
+                            1.0
+                        ],
+                        "distance": [
+                            1.0,
+                            1.0,
+                            1.0,
+                            1.0
+                        ],
+                        "name": [
+                            1.0,
+                            1.0,
+                            1.0,
+                            1.0
+                        ]
+                    },
+                    "distance": false,
+                    "dormant": false,
+                    "enable": false,
+                    "list": null,
+                    "name": false,
+                    "render_distance": 15000
+                },
+                "players": {
+                    "box": true,
+                    "colors": {
+                        "box": [
+                            0.6903282403945923,
+                            0.8519994020462036,
+                            0.9599082469940186,
+                            1.0
+                        ],
+                        "distance": [
+                            0.6903282403945923,
+                            0.8519994020462036,
+                            0.9599082469940186,
+                            1.0
+                        ],
+                        "name": [
+                            0.6903282403945923,
+                            0.8519994020462036,
+                            0.9599082469940186,
+                            1.0
+                        ],
+                        "rp_team": [
+                            0.6903282403945923,
+                            0.8519994020462036,
+                            0.9599082469940186,
+                            1.0
+                        ],
+                        "user_group": [
+                            0.6903282403945923,
+                            0.8519994020462036,
+                            0.9599082469940186,
+                            1.0
+                        ],
+                        "weapon_name": [
+                            0.6903282403945923,
+                            0.8519994020462036,
+                            0.9599082469940186,
+                            1.0
+                        ]
+                    },
+                    "distance": true,
+                    "dormant": true,
+                    "enable": true,
+                    "name": true,
+                    "render_distance": 15000,
+                    "rp_team": true,
+                    "user_group": false,
+                    "weapon_name": true
+                }
+            },
+            "world": {
+                "fov_changer": {
+                    "enable": true,
+                    "value": 123.0999984741211
+                },
+                "model_fov_changer": {
+                    "enable": false,
+                    "value": 30.0
+                }
+            }
+        }
+    }
+}
