@@ -10,4 +10,7 @@ invert on shot
 seq manip
 rgb chams
 deezer player
+
+
+--bug--
 on RGB chams fov changer value change
