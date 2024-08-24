@@ -10,7 +10,7 @@ invert on shot
 seq manip
 rgb chams
 deezer player
-
+Just get a speedhack module, and enable it on shooting and disable it immediately, It might work.
 
 --bug--
 on RGB chams fov changer value change
