@@ -11,6 +11,7 @@ seq manip
 rgb chams
 deezer player
 Just get a speedhack module, and enable it on shooting and disable it immediately, It might work.
+inter chat
 
 --bug--
 on RGB chams fov changer value change
