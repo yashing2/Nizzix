@@ -8,7 +8,6 @@ remove sky
 invert on shot
 180 pich in shot
 seq manip
-rgb chams
 deezer player
 Just get a speedhack module, and enable it on shooting and disable it immediately, It might work.
 inter chat
